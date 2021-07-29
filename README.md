@@ -1,5 +1,8 @@
 # nvim-base16
 
+# FORK REASON
+I didn't need the default colorschemes, so I removed the colors dir
+
 Neovim plugin for building base16 colorschemes with support for Neovim's
 builtin LSP and Treesitter.
 
